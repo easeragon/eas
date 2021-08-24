@@ -40,17 +40,17 @@ export default function Home() {
         <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', width: '100%', marginTop: '1em' }}>
         <SocialIcon url="https://api.whatsapp.com/send/?phone=85236999678&text&app_absent=0"/>
-            <p style={{ marginTop: '15px' }}>+852 36999678</p>
+            <p style={{ marginTop: '15px', color: '#3A9679' }}>+852 36999678</p>
         </div> 
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', width: '100%', marginTop: '1em' }}>
         <SocialIcon url="mailto:easint@protonmail.com"/>
-            <p style={{ marginTop: '15px' }}>easint@protonmail.com</p>
+            <p style={{ marginTop: '15px', color: '#3A9679' }}>easint@protonmail.com</p>
         </div>  
         </div> 
         <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', width: '100%', marginTop: '1em' }}>
             <p style={{ marginTop: '15px' }}>Postal Address</p>
-            <p style={{ marginTop: '15px', fontWeight: 'bold' }}>Coming Soon</p>
+            <p style={{ marginTop: '15px', fontWeight: 'bold', color: '#3A9679' }}>Coming Soon</p>
         </div>  
         </div>  
       </main>
@@ -97,7 +97,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          padding: 5em;
+          margin-top: 3em;
         }
 
         footer img {

@@ -48,19 +48,19 @@ export default function Home() {
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', borderRadius: '10px', background: '#f3f3f3', paddingTop: '3rem' }}>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
           <img className="profile" src="https://static.wixstatic.com/media/0222bf_aafef4a7171c42ccaa1272d00ec5d1f9~mv2.jpeg/v1/fill/w_227,h_227,al_c,q_80,usm_0.66_1.00_0.01/WhatsApp%20Image%202021-05-03%20at%2009_45_36_jp.webp"/>
-          <h3>Boris Li</h3>
+          <h3 style={{ color: '#3A9679' }}>Boris Li</h3>
               <h3>Asia Pacific and Oceania</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center' }}>Hello.  My name is Boris Li.  I am from Hong Kong.  I am just a student.  I am interested in "Inheritance Cycle" one and a half years ago.  I am one of the managers and script writer in EAS.  I am also the owner of this website, EAS Facebook Page, EAS Instagram Page and Youtube.</p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '2em' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Alec</h3>
+          <h3 style={{ color: '#3A9679' }}>Alec</h3>
               <h3>America</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center' }}>Hi I'm Alec. Longtime fan and so happy to be apart of this project.</p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '2em' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Gabe</h3>
+          <h3 style={{ color: '#3A9679' }}>Gabe</h3>
               <h3>Europe and Africa</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center' }}>Hello! My name is Gabi and I am a 18 old Romanian student. I like reading books, like The Inheritance Cycle and I joined this project to see the Eragon series animated.I also like hiking, volleyball and playing ukulele. I see myself as a relentless problem-solver and I'm always looking for a new challenge. I chose to voice act partly because of no other choices but I wanna gain experience in this domain too. People often says that I'm smart and that might be true because I easily adapt new situations and intuit what I'm doing.</p>
         </div>
@@ -70,7 +70,7 @@ export default function Home() {
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', borderRadius: '10px', background: '#f3f3f3', paddingTop: '3rem' }}>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
           <img className="profile" src="https://static.wixstatic.com/media/0222bf_aafef4a7171c42ccaa1272d00ec5d1f9~mv2.jpeg/v1/fill/w_227,h_227,al_c,q_80,usm_0.66_1.00_0.01/WhatsApp%20Image%202021-05-03%20at%2009_45_36_jp.webp"/>
-          <h3>Boris Li</h3>
+          <h3 style={{ color: '#3A9679' }}>Boris Li</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center' }}>Hello.  My name is Boris Li.  I am from Hong Kong.  I am just a student.  I am interested in "Inheritance Cycle" one and a half years ago.  I am one of the managers and script writer in EAS.  I am also the owner of this website, EAS Facebook Page, EAS Instagram Page and Youtube.</p>
         </div>
       </div>
@@ -79,22 +79,22 @@ export default function Home() {
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', borderRadius: '10px', background: '#f3f3f3', paddingTop: '3rem' }}>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Jason Chan</h3>
+          <h3 style={{ color: '#3A9679' }}>Jason Chan</h3>
             <p style={{ maxWidth: '600px', textAlign: 'center', padding: '0px 2em 0px 2em' }}>My name is Jason Chan. I am from Hong Kong and I am the voice actor in EAS. I am a so kind and talkative. Enjoy everyday is my own interested. Nice to meet you:)</p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '2em' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Jo</h3>
+          <h3 style={{ color: '#3A9679' }}>Jo</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center', padding: '0px 2em 0px 2em' }}>Heya. My name is Jo. I am from QC/Canada. I discovered the Inheritance cycle couples of years ago (2 or 3 i can't remember). I'm a voice actor (hopefully a good one, never tried doing any VA).</p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '2em' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Gabe</h3>
+          <h3 style={{ color: '#3A9679' }}>Gabe</h3>
               <p style={{ maxWidth: '600px', textAlign: 'center', padding: '0px 2em 0px 2em' }}>Hello! My name is Gabi and I am a 18 old Romanian student. I like reading books, like The Inheritance Cycle and I joined this project to see the Eragon series animated.I also like hiking, volleyball and playing ukulele. I see myself as a relentless problem-solver and I'm always looking for a new challenge. I chose to voice act partly because of no other choices but I wanna gain experience in this domain too. People often says that I'm smart and that might be true because I easily adapt new situations and intuit what I'm doing.</p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '2em' }}>
           <img className="profile" src="/profile.jpeg"/>
-          <h3>Lenna Buckley</h3>
+          <h3 style={{ color: '#3A9679' }}>Lenna Buckley</h3>
           <p style={{ maxWidth: '600px', textAlign: 'center', padding: '0px 2em 0px 2em' }}>Hi. my name Is Lenna, I'm 21 and I'm currently studying my 2nd year of biology and geology at uni. I'm a long time fan of the inheritance cycle, my main hobbies are working on cars and fursuiting. I've not done any professional voicework but I have done some voice training and can do both masculine and feminine sounding voices.</p>
         </div>
       </div>
@@ -146,7 +146,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          padding: 5em;
+          margin-top: 3em;
         }
         footer img {
           margin-left: 0.5rem;
@@ -283,15 +283,16 @@ export default function Home() {
         }
         .react-tabs__tab--selected{
           border: none !important;
-          border-bottom: 2px solid black !important;
-          font-size: 1.5rem !important;
+          border-bottom: 2px solid #3A9679 !important;
+          font-size: 1.25rem !important;
+          color: #3A9679 !important;
         }
         .react-tabs__tab-list{
           border: none !important;
           margin-top: 1em;
         }
         .react-tabs__tab{
-          font-size: 1.2rem;
+          font-size: 1.1rem;
         }
         .react-tabs{
           display: flex;

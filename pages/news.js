@@ -41,12 +41,12 @@ export default function Home() {
 
         <div className="grid">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEx1ZZJ0_iHKep8xAOzUb1KT9bCzLowlE_zXrvp-I_s9xxxw/viewform" className="card">
-            <h3>WhatsApp! &rarr;</h3>
+            <h3 style={{ color: '#3A9679' }}>WhatsApp! &rarr;</h3>
             <p>Dear all,<br /> We have an exciting news. It is that you can ask us through WhatsApp! Here is the phone number.<br /> +852 36999678</p>
           </a>
 
           <a href="/news" className="card">
-            <h3>Why There Aren't Any Episode Out &rarr;</h3>
+            <h3 style={{ color: '#3A9679' }}>Why There Aren't Any Episode Out &rarr;</h3>
             <p>Hello all,
 <br />
   There is not much progress for the project.  The reason is that we don't have enough animators.  We need more urgently.  Please fill in the form below and introduce your friends to join it too.  Thank you very much!  
@@ -107,7 +107,7 @@ Email: easint@protonmail.com</p>
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          padding: 5em;
+          margin-top: 3em;
         }
 
         footer img {
