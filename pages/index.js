@@ -43,18 +43,19 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEx1ZZJ0_iHKep8xAOzUb1KT9bCzLowlE_zXrvp-I_s9xxxw/viewform" className="card">
+          <a style={{ zIndex: 9999 }} href="https://docs.google.com/forms/d/e/1FAIpQLSdEx1ZZJ0_iHKep8xAOzUb1KT9bCzLowlE_zXrvp-I_s9xxxw/viewform" className="card" target="_blank">
             <h3 style={{ color: '#3A9679' }}>Interested in joining us? &rarr;</h3>
             <p> Fill out the Google Form linked to join the EAS project!</p>
           </a>
 
-          <a href="/news" className="card">
+          <a style={{ zIndex: 9999 }} href="/news" className="card" target="_blank">
             <h3 style={{ color: '#3A9679' }}>News &rarr;</h3>
             <p>Learn what's new with us!</p>
           </a>
           <a
             href="/contactus"
             className="card"
+             target="_blank"
           >
             <h3 style={{ color: '#3A9679' }}>Contact Us &rarr;</h3>
             <p>
@@ -64,6 +65,7 @@ export default function Home() {
           <a
             href="/staff"
             className="card"
+            target="_blank"
           >
             <h3 style={{ color: '#3A9679' }}>Staff &rarr;</h3>
             <p>Discover the people making the magic happen.</p>

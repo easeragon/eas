@@ -4,6 +4,6 @@
   "/_document": "pages/_document.js",
   "/news": "pages/news.js",
   "/": "pages/index.js",
-  "/staff": "pages/staff.js",
-  "/contactus": "pages/contactus.js"
+  "/contactus": "pages/contactus.js",
+  "/staff": "pages/staff.js"
 }
